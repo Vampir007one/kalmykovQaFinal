@@ -17,7 +17,7 @@ class TestingAtriangleForExistenceCest
     }
 
     //2.Тестирование ввода числа 0 как значения для стороны А треугольника ABC
-    public function ID_2_Testing_NOT_natural_number_input_for_side_A_of_triangle_AB(ApiTester $I)
+    public function ID_2_Testing_NOT_natural_number_input_for_side_A_of_triangle_ABC(ApiTester $I)
     {
         $data = [
             'a' => 0,
@@ -31,7 +31,7 @@ class TestingAtriangleForExistenceCest
     }
 
     //3.Тестирование ввода числа 0 как значения для стороны B треугольника ABC
-    public function ID_3_Testing_NOT_natural_number_input_for_side_B_of_triangle_AB(ApiTester $I)
+    public function ID_3_Testing_NOT_natural_number_input_for_side_B_of_triangle_ABC(ApiTester $I)
     {
         $data = [
             'a' => 6,
@@ -45,7 +45,7 @@ class TestingAtriangleForExistenceCest
     }
 
     //4.Тестирование ввода числа 0 как значения для стороны C треугольника ABC
-    public function ID_4_Testing_NOT_natural_number_input_for_side_C_of_triangle_AB(ApiTester $I)
+    public function ID_4_Testing_NOT_natural_number_input_for_side_C_of_triangle_ABC(ApiTester $I)
     {
         $data = [
             'a' => 2,
@@ -59,7 +59,7 @@ class TestingAtriangleForExistenceCest
     }
 
     //5.Проверка существования равнобедренного треугольника ABC
-    public function ID_5_Data_processing_testing_for_isosceles_triangle_AB(ApiTester $I)
+    public function ID_5_Data_processing_testing_for_isosceles_triangle_ABC(ApiTester $I)
     {
         $data = [
             'a' => 5,
@@ -73,7 +73,7 @@ class TestingAtriangleForExistenceCest
     }
 
     //6.Проверка существования равностороннего треугольника ABC
-    public function ID_6_Data_processing_check_for_equilateral_triangle_AB(ApiTester $I)
+    public function ID_6_Data_processing_check_for_equilateral_triangle_ABC(ApiTester $I)
     {
         $data = [
             'a' => 5,
@@ -87,7 +87,7 @@ class TestingAtriangleForExistenceCest
     }
 
     //7.Проверка существования прямоугольного треугольника треугольника ABC
-    public function ID_7_Data_processing_check_for_right_angled_triangle_AB(ApiTester $I)
+    public function ID_7_Data_processing_check_for_right_angled_triangle_ABC(ApiTester $I)
     {
         $data = [
             'a' => 4,
@@ -101,7 +101,7 @@ class TestingAtriangleForExistenceCest
     }
 
     //8.Тестирование существования треугольника ABC с текстовыми значениями для сторон ABC
-    public function ID_8_Testing_text_input_for_triangle_AB(ApiTester $I)
+    public function ID_8_Testing_text_input_for_triangle_ABC(ApiTester $I)
     {
         $data = [
             'a' => 'a',
@@ -115,7 +115,7 @@ class TestingAtriangleForExistenceCest
     }
 
     //9.Тестирование существования треугольника ABC с текстовым значением для стороны А
-    public function ID_9_Testing_text_input_for_side_A_of_triangle_AB(ApiTester $I)
+    public function ID_9_Testing_text_input_for_side_A_of_triangle_ABC(ApiTester $I)
     {
         $data = [
             'a' => 'a',
