@@ -1,3 +1,3 @@
 # kalmykovQaFinal
 
-<a href="https://asciinema.org/a/JLDShyBFyXfmN80OA3BLZYXvS" target="_blank"><img src="https://asciinema.org/a/JLDShyBFyXfmN80OA3BLZYXvS.svg" /></a>
+<a href="https://asciinema.org/a/uq2zSrCwmAfEfxBkDj2FFHslZ" target="_blank"><img src="https://asciinema.org/a/uq2zSrCwmAfEfxBkDj2FFHslZ.svg" /></a>
