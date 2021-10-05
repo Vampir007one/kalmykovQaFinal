@@ -1,6 +1,6 @@
 # Итоговая работа по курсу QA Testing Калмыкова Александра
 Руководство по запуску:
-1. Склонировать репозиторий <git clone https://github.com/Vampir007one/kalmykovQaFinal.git>
+1. Склонировать репозиторий <code>git clone https://github.com/Vampir007one/kalmykovQaFinal.git</code>
 2. Перейти в папку проекта ***cd kalmykovQaFinal***
 3. Запустить тест: ***vendor/bin/codecept run***
 4. Вроде всё ! :)
