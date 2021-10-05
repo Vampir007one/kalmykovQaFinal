@@ -2,7 +2,7 @@
 Руководство по запуску:
 1. ***Склонировать репозиторий*** <code>git clone https://github.com/Vampir007one/kalmykovQaFinal.git</code>
 2. ***Перейти в папку проекта*** <code>cd kalmykovQaFinal</code>
-3. ***Запустить тест: <code>vendor/bin/codecept run</code>
+3. ***Запустить тест:*** <code>vendor/bin/codecept run</code>
 ---
 Ссылки:
 1. ***Тест-кейсы:*** https://docs.google.com/spreadsheets/d/1eBiB6zDkqxGLnpN6Vm0sbOWuFhCeN7Mm9WJymEq6DRU/edit?usp=sharing
