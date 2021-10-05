@@ -1,4 +1,4 @@
-# Итоговая работа по курсу QA Testing <br> By Kalmykov Alexander
+# Итоговая работа по курсу QA Testing <br> by Kalmykov Alexander
 Руководство по запуску:
 1. ***Склонировать репозиторий*** <code>git clone https://github.com/Vampir007one/kalmykovQaFinal.git</code>
 2. ***Перейти в папку проекта*** <code>cd kalmykovQaFinal</code>
