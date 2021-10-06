@@ -14,6 +14,7 @@
 ---
 Возможные проблемы с запуском на Win10
 Возникает ошибка: <code>vendor/bin/codecept: line 1: ../codeception/codeception/codecept: No such file or directory</code>
+<br>
 ***Решение***
 1. Удалить каталог <code>vendor</code>
 2. Выполнить команду <code>composer install</code>
