@@ -11,6 +11,7 @@
 ***Решение***
 1. Удалить каталог <code>kalmykovQaFinal/vendor</code>
 2. Выполнить команду <code>composer install</code>
+3. Запустить тест: <code>vendor/bin/codecept run</code>
 ---
 Ссылки:
 1. ***Тест-кейсы:*** https://docs.google.com/spreadsheets/d/1eBiB6zDkqxGLnpN6Vm0sbOWuFhCeN7Mm9WJymEq6DRU/edit?usp=sharing
