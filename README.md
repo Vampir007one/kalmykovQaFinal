@@ -4,11 +4,12 @@
 2. ***Перейти в папку проекта*** <code>cd kalmykovQaFinal</code>
 3. ***Запустить тест:*** <code>vendor/bin/codecept run</code>
 ---
-***Возможные проблемы с запуском на Win10***
+***Возможные проблемы с запуском тестов на Win10***
 <br>
 Возникает ошибка: <code>vendor/bin/codecept: line 1: ../codeception/codeception/codecept: No such file or directory</code>
+<br>
 ***Решение***
-1. Удалить каталог <code>vendor</code>
+1. Удалить каталог <code>kalmykovQaFinal/vendor</code>
 2. Выполнить команду <code>composer install</code>
 ---
 Ссылки:
